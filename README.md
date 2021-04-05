@@ -16,8 +16,15 @@ Qu 1: Joint Session Count
      both iPhone AND Web (for that day), Where iPhone logs and Web logs are indistinct   
      Relations.
 
-Ref Link: https://github.com/michaelfordbrown/Coding-Refresh/tree/Unit-Testing
+Ref Link: https://github.com/michaelfordbrown/Coding-Refresh/commit/751f7c84e5b0a541377f414a617c39734eec8dcb?branch=751f7c84e5b0a541377f414a617c39734eec8dcb&diff=unified
 
 File: Joint Session.sql
 
-    
+Qu 2: Friend Acceptance Rate
+
+     Write a SQL query to find out the overall friend acceptance rate for each day.
+     friend_requests: ds | sender | receiver | action (Sent, accepted, rejected etc).
+     DAY(ds) | friend_acceptance_rate(receiver) = accepted(receiver)/total(receiver)
+     for each receiver count distent accepter 
+     
+Ref Link: https://github.com/michaelfordbrown/Coding-Refresh/commit/751f7c84e5b0a541377f414a617c39734eec8dcb?branch=751f7c84e5b0a541377f414a617c39734eec8dcb&diff=unified
